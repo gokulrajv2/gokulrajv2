@@ -95,7 +95,6 @@ An AI/ML project focused on demand forecasting and Ai house prediction!.
 
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Open_Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/1Rf-8xCO674e4HhHfA9yS_px2BBj6bMDH?usp=sharing)
 
-[![Google colab](https://colab.research.google.com/drive/1xx6ClmcbeATe7SlPEF5nqYjwFB92atz7?usp=sharing)]
 
 ---
 
